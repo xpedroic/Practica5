@@ -18,7 +18,10 @@ public class HolaMundo2 {
         // TODO code application logic here
         //Hola mundo esta mal escrito te lo modifico De nada 
         System.out.println("Ohla mhundossss");
-        //Aaron gay 
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+
     }
     
 }
