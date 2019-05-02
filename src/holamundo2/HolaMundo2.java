@@ -16,7 +16,9 @@ public class HolaMundo2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HOla mundod===P===0");
+        //Hola mundo esta mal escrito te lo modifico De nada 
+        System.out.println("Ohla mhundossss");
+        
     }
     
 }
